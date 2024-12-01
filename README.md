@@ -1,4 +1,4 @@
-# Binary Segmentation of Liquid in Video
+# Binary Segmentation of Liquid in Video (25/06/2022)
 This project focuses on applying binary segmentation techniques to separate liquid from the background in a video. The liquid is analyzed frame by frame using a segmentation algorithm based on color thresholding. The primary objective is to isolate the liquid regions in each frame and create a binary mask that distinguishes the liquid from other elements in the scene.
 
 ## Goal
